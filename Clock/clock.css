@@ -20,12 +20,12 @@ body {
     background-color: #EB6C52;
     padding: 0.5em 0em;
     width: 80%;
-    margin: 10% auto 0%;
+    margin: 10% auto 0% auto;
     font-family: Helevetica;
     text-align: center;
     text-transform: uppercase
 }
 
 span {
-    margin-left: 175px;
+    /* margin-left: 1px; */
 }
